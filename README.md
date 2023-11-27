@@ -34,8 +34,8 @@
 <h3>TECNOLOGIAS DE UNIVERSIDAD🎓📚</h3>
 <b>esta seccion se podria describir como tecnologias que vi en la U de una manera tan rapida que el aprendizaje fue regular(Apex Oracle) o nulo(PHP):</b>
 <ul>
-PHP
-Apex Oracle
+<li>PHP</li>
+<li>Apex Oracle</li>
 </ul>
 
 ### METODOLOGIA AGIL🔄📊
