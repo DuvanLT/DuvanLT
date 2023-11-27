@@ -1,6 +1,6 @@
-
+<div align="center">
 <img align="center" width="200" src="https://avatars.githubusercontent.com/u/117489659?v=4" />
-
+</div>
 <h2 align="center">💻SOY FRONTEND DEVELOPER A SUS ORDENES💻</h2>
 
 <p align="center">Aqui podras encontrar algunos de mis trabajos realizados que considero que pueden aportar conocimiento a los nuevos, si tienes algun feedback bienvenido sea</p>
