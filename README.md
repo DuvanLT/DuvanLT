@@ -29,7 +29,7 @@
 </ul>
 <h3>LO QUE APRENDERE EN EL FUTURO🚀🔮 </h3>
 <ul>
-<li>Next.js: No estoy completamente seguro, pero quizas sea mi siguiente tecnologia</li>
+<li>Next.js: Debo usarlo, asi que mis proximos proyectos estaran hechos con create-next-app y no con CRA(create-react-app)</li
 </ul>
 <h3>TECNOLOGIAS DE UNIVERSIDAD🎓📚</h3>
 <b>esta seccion se podria describir como tecnologias que vi en la U de una manera tan rapida que el aprendizaje fue regular(Apex Oracle) o nulo(PHP):</b>
