@@ -13,6 +13,7 @@
 <li>Tailwind (lo podriamos considerar maquillaje)🌟</li>
 <li>Javascript (asi consegui mis primeros pasos)🔧</li>
 <li>React (estoy aprendiendolo pero es genial)⚛️</li>
+<li>Next.js</li>li>
 <li>Git (viajo en el tiempo)🐱‍💻</li>
 </ul>
 
