@@ -1,6 +1,6 @@
 
 
-<h1>Duvan Mancilla <br/> System Enginieer(Frot-end)</h1>
+<h1>Duvan Mancilla <br/> System Enginieer(Front-end)</h1>
 &emsp;
 <h3 align="left">Student of System Enginieer from Colombia(Cali) with two mounths of work experience.</h3>
 &emsp;
@@ -44,6 +44,11 @@
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=Tailwind)
 
+### Databases:
+&emsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+
+&emsp;
 ### Tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
