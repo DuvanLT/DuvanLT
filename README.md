@@ -3,7 +3,7 @@
 <div style="display:flex; align-items:center;">
 <h1>Duvan Mancilla <br/><br/> System Enginieer(Frot-end)</h1>
 
-<img src="https://ouch-cdn2.icons8.com/OYSLF4N50PfUffGwiMaXU5km008lZhqHCJ2WJ_UAjY4/rs:fit:368:445/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNjYv/Y2NlOWI4MjgtNWNl/YS00NzU3LThhMGMt/OTk4YTM3OGZjZDBk/LnN2Zw.png" align="center" alt="ilustration">
+<img src="https://ouch-cdn2.icons8.com/OYSLF4N50PfUffGwiMaXU5km008lZhqHCJ2WJ_UAjY4/rs:fit:368:445/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNjYv/Y2NlOWI4MjgtNWNl/YS00NzU3LThhMGMt/OTk4YTM3OGZjZDBk/LnN2Zw.png" align="center" alt="ilustration" style="max-width: 100px;">
 </div>
 
 -------------------
