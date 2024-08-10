@@ -4,7 +4,9 @@
 &emsp;
 <h3 align="left">Student of System Enginieer from Colombia(Cali) with two mounths of work experience.</h3>
 &emsp;
-
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 -------------------
 &emsp;
 
@@ -15,7 +17,6 @@
 
 ## Find me:
 -------------------
-
 &emsp;
 <a href="https://www.linkedin.com/in/duvan-mancilla/">
   ![Linkedin: Duvan mancilla](https://img.shields.io/badge/-duvan-blue?style=flat-square&logo=Linkedin&logoColor=white)
@@ -26,16 +27,13 @@
 <a href="https://leetcode.com/u/DuvanLT/">
  ![LeetCode: DuvanLT](https://img.shields.io/badge/-DuvanLT-000?&logo=LeetCode)
 </a>
-
 &emsp;
-
 ## 🛠️ My Skills
 -------------------
 ### Programming languages:
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-
 ### Frontend development:
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -43,16 +41,13 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=Tailwind)
-
 ### Databases:
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-
 &emsp;
 ### Tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Yaak](https://img.shields.io/badge/-Yaak-000?&logo=Yaak)
-
 &emsp;
