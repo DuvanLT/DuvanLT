@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Duvan Mancilla</h1>
 
-<h1>Duvan Mancilla System Enginieer(Frot-end)</h1>
+<h1>Duvan Mancilla <br/> System Enginieer(Frot-end)</h1>
 -------------------
 &emsp;
 <h3 align="left">Student of System Enginieer from Colombia(Cali) with two mounths of work experience.</h3>
