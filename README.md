@@ -22,7 +22,7 @@
 
 &emsp;
 <a href="https://www.linkedin.com/in/duvan-mancilla/">
- ![Linkedin: Duvan Mancilla](https://img.shields.io/badge/-Duvan-Mancilla-blue?style=flat-square&logo=Linkedin&logoColor=white)
+ ![Linkedin: Duvan Mancilla](https://img.shields.io/badge/Duvan?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://github.com/DuvanLT">
   ![GitHub: DuvanLT](https://img.shields.io/github/followers/DuvanLT?label=follow&style=social)
