@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Duvan Mancilla</h1>
 
-<h1>Duvan Mancilla <br/> System Enginieer(Frot-end)</h1>
+<div style="display:flex">
+<h1>Duvan Mancilla <br/><br/> System Enginieer(Frot-end)</h1>
 
 <img src="https://ouch-cdn2.icons8.com/OYSLF4N50PfUffGwiMaXU5km008lZhqHCJ2WJ_UAjY4/rs:fit:368:445/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNjYv/Y2NlOWI4MjgtNWNl/YS00NzU3LThhMGMt/OTk4YTM3OGZjZDBk/LnN2Zw.png" align="center" alt="ilustration">
+</div>
 
 -------------------
 &emsp;
@@ -22,7 +24,7 @@
 
 &emsp;
 <a href="https://www.linkedin.com/in/duvan-mancilla/">
- ![Linkedin: Duvan Mancilla](https://img.shields.io/badge/Duvan?style=flat-square&logo=Linkedin&logoColor=white)
+  ![Linkedin: Duvan mancilla](https://img.shields.io/badge/-duvan-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://github.com/DuvanLT">
   ![GitHub: DuvanLT](https://img.shields.io/github/followers/DuvanLT?label=follow&style=social)
