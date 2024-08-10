@@ -2,7 +2,6 @@
 
 <h1>Duvan Mancilla <br/> System Enginieer(Front-end)</h1>
 &emsp;
-<picture> <img align="right" src="https://img.freepik.com/vector-gratis/ilustracion-concepto-codificacion-manual_114360-8113.jpg" width = 250px></picture>
 <h3 align="left">Student of System Enginieer from Colombia(Cali) with two mounths of work experience.</h3>
 &emsp;
 <p align = "center">
@@ -45,7 +44,6 @@
 ### Databases:
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-&emsp;
 ### Tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
