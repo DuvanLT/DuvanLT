@@ -7,7 +7,6 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
--------------------
 &emsp;
 
 - 🔭 I’m currently learning English, for now I´m B1   
@@ -16,7 +15,6 @@
 &emsp;
 
 ## Find me:
--------------------
 &emsp;
 <a href="https://www.linkedin.com/in/duvan-mancilla/">
   ![Linkedin: Duvan mancilla](https://img.shields.io/badge/-duvan-blue?style=flat-square&logo=Linkedin&logoColor=white)
@@ -29,7 +27,6 @@
 </a>
 &emsp;
 ## 🛠️ My Skills
--------------------
 ### Programming languages:
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
