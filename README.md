@@ -46,4 +46,6 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Yaak](https://img.shields.io/badge/-Yaak-000?&logo=Yaak)
+![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
+![Discord](https://img.shields.io/badge/-Discord-000?&logo=Discord)
 &emsp;
