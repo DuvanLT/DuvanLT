@@ -2,7 +2,7 @@
 
 <h1>Duvan Mancilla <br/> System Enginieer(Front-end)</h1>
 &emsp;
-<h3 align="left">Student of System Enginieer from Colombia(Cali) with two mounths of work experience.</h3>
+<h3 align="left">Student of System Enginieer from Colombia(Cali) with two months of work experience.</h3>
 &emsp;
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
