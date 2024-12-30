@@ -4,10 +4,6 @@
 &emsp;
 <p align="left">Student of System Engineer from Colombia(Cali) with almost seven months of work experience. I like to make good software and Improve myself with constant knowledge </p>
 &emsp;
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-&emsp;
 
 - 🔭 I’m currently learning English, for now I'm B1   
 - 📚 I'm also doing the eighth degree of System Enginieer
@@ -64,3 +60,7 @@
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 &emsp;
+&emsp;
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
