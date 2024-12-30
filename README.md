@@ -1,6 +1,6 @@
 
 
-<h1>Duvan Mancilla <br/> System Enginieer(Full-Stack)</h1>
+<h1>Duvan Mancilla <br/> System Engineer(Full-Stack)</h1>
 &emsp;
 <p align="left">Student of System Engineer from Colombia(Cali) with almost seven months of work experience. I like to make good software and Improve myself with constant knowledge </p>
 &emsp;
