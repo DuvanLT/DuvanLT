@@ -2,7 +2,7 @@
 
 <h1>Duvan Mancilla <br/> System Enginieer(Full-Stack)</h1>
 &emsp;
-<h3 align="left">Student of System Engineer from Colombia(Cali) with almost seven months of work experience. I like to make good software and Improve myself with constant knowledge </h3>
+<p align="left">Student of System Engineer from Colombia(Cali) with almost seven months of work experience. I like to make good software and Improve myself with constant knowledge </p>
 &emsp;
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
@@ -17,7 +17,7 @@
 ## Find me:
 &emsp;
 <a href="https://www.linkedin.com/in/duvan-mancilla/">
-  ![Linkedin: Duvan mancilla](https://img.shields.io/badge/-Duvan-blue?style=flat-square&logo=Linkedin&logoColor=white)
+  ![Linkedin: Duvan mancilla](https://img.shields.io/badge/-Duvan%20Mancilla-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://github.com/DuvanLT">
   ![GitHub: DuvanLT](https://img.shields.io/github/followers/DuvanLT?label=follow&style=social)
@@ -56,7 +56,7 @@
 [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Android Studio](https://img.shields.io/badge/-Android%20Studio-00ff00?&logo=Android%20Studio)](#)
+[![Android Studio](https://img.shields.io/badge/-Android%20Studio-ffffff?&logo=Android%20Studio)](#)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
