@@ -2,12 +2,11 @@
 
 <h1>Duvan Mancilla <br/> System Engineer(Full-Stack)</h1>
 &emsp;
-<p align="left">Student of System Engineer from Colombia(Cali) with almost seven months of work experience. I like to make good software and Improve myself with constant knowledge </p>
+<p align="left">Student of System Engineer from Colombia(Cali) with one year of work experience. I like to make good software and Improve myself with constant knowledge </p>
 &emsp;
 
-- 🔭 I’m currently learning English, for now I'm B1   
-- 📚 I'm also doing the eighth degree of System Enginieer
-- 🌱 I’m currently learning **MongoDB**, **Vue.js**, **Typescript**
+- 🔭 I’m currently learning French.   
+- 📚 I'm also doing the ninth degree of System Enginieer
 &emsp;
 
 ## Find me:
@@ -30,6 +29,7 @@
 ### Frontend development:
 &emsp;
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=%2300DC82)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
@@ -44,6 +44,9 @@
 ### Databases:
 &emsp;
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ### Tools:
 &emsp;
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
