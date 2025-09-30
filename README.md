@@ -2,7 +2,7 @@
 
 <h1>Duvan Mancilla <br/> System Engineer(Full-Stack)</h1>
 &emsp;
-<p align="left">Student of System Engineer from Colombia(Cali) with one year of work experience. I like to make good software and Improve myself with constant knowledge </p>
+<p align="left">System Engineering student from Cali, Colombia 🇨🇴 | 1.5 years of experience | I love building good software and growing through continuous learning.</p>
 &emsp;
 
 - 🔭 I’m currently learning French.   
