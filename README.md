@@ -1,6 +1,6 @@
 
 
-<h1>Duvan Mancilla <br/> System Engineer(Full-Stack)</h1>
+<h1>Duvan Mancilla <br/> System Engineer(Full-Stack) & artificial intelligence </h1>
 &emsp;
 <p align="left">System Engineering student from Cali, Colombia 🇨🇴 | 1.5 years of experience | I love building good software and growing through continuous learning.</p>
 &emsp;
