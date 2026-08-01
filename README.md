@@ -121,7 +121,7 @@ INTELIGENCIA ARTIFICIAL  █████░░░░░░░░░░░░░�
 <p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="80" alt="Snorlax"/><br/><sub><i>Snorlax — la base robusta que nunca se cae 🛡️</i></sub></p>
 <div align="center">
 
-<img src="assets/pixel-badges/backend.png" alt="Node.js, Express.js, Flask"/>
+<img src="assets/pixel-badges/backend.png" alt="Node.js, Express.js, Flask, Django, FastAPI"/>
 
 </div>
 
@@ -143,12 +143,13 @@ INTELIGENCIA ARTIFICIAL  █████░░░░░░░░░░░░░�
 
 </div>
 
-### 🧠 Inteligencia Artificial *(en entrenamiento)*
-<p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="80" alt="Mewtwo"/><br/><sub><i>Mewtwo — creado a partir de código, mi próxima evolución 🔬</i></sub></p>
-
+### 🧠 Inteligencia Artificial
+<p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="45" alt="Mewtwo"/></p>
 <div align="center">
 
-🔭 Actualmente entrenando en soluciones de **Inteligencia Artificial**
+<img src="assets/pixel-badges/ai_tools.png" alt="Claude Code"/>
+
+<sub><i>Hoy la IA te ayuda con casi cualquier lenguaje — lo que importa es cómo la usas 🔭</i></sub>
 
 </div>
 
