@@ -85,13 +85,13 @@ Estudiante de Ingeniería de Sistemas en Cali, Colombia 🇨🇴 — **3 años d
 
 ## 🛠️ ![EQUIPO DE COMBATE](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=2600&repeat=false&color=3B4CCA&background=00000000&center=true&vCenter=true&width=380&height=40&lines=EQUIPO+DE+COMBATE) — Mis Skills
 
+<div align="center"><sub>📦 Los badges de esta sección son pixel art generado a mano — súbelos a tu repo en <code>assets/pixel-badges/</code> junto al README. Para cambiar su tamaño no hace falta regenerarlos: solo edita el <code>height="24"</code> de cada <code>&lt;img&gt;</code> en este archivo.</sub></div>
+
 ### 🎲 ![LENGUAJES DE PROGRAMACIÓN](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=3300&repeat=false&color=FFDE00&background=00000000&center=true&vCenter=true&width=400&height=32&lines=LENGUAJES+DE+PROGRAMACI%C3%93N)
 <p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif" width="65" alt="Ditto"/><br/><sub><i>Ditto — se transforma en cualquier lenguaje 🔄</i></sub></p>
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="assets/pixel-badges/languages.png" height="24" alt="JavaScript, Java, Python"/>
 
 </div>
 
@@ -99,13 +99,7 @@ Estudiante de Ingeniería de Sistemas en Cali, Colombia 🇨🇴 — **3 años d
 <p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="70" alt="Charizard"/><br/><sub><i>Charizard — interfaces con mucho fuego visual 🎨</i></sub></p>
 <div align="center">
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="assets/pixel-badges/frontend.png" height="24" alt="Vue, Nuxt, React, Next.js, HTML, CSS, Tailwind"/>
 
 </div>
 
@@ -113,11 +107,7 @@ Estudiante de Ingeniería de Sistemas en Cali, Colombia 🇨🇴 — **3 años d
 <p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="80" alt="Snorlax"/><br/><sub><i>Snorlax — la base robusta que nunca se cae 🛡️</i></sub></p>
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="assets/pixel-badges/backend.png" height="24" alt="Node.js, Express.js, Flask, Django, FastAPI"/>
 
 </div>
 
@@ -125,11 +115,7 @@ Estudiante de Ingeniería de Sistemas en Cali, Colombia 🇨🇴 — **3 años d
 <p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" width="65" alt="Porygon"/><br/><sub><i>Porygon — hecho enteramente de código y datos 🧬</i></sub></p>
 <div align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="assets/pixel-badges/databases.png" height="24" alt="MongoDB, MySQL, SQLite, SQL Server, Firebase"/>
 
 </div>
 
@@ -137,18 +123,9 @@ Estudiante de Ingeniería de Sistemas en Cali, Colombia 🇨🇴 — **3 años d
 <p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif" width="65" alt="Magnemite"/><br/><sub><i>Magnemite — atrae cada herramienta que necesito 🧰</i></sub></p>
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=fff)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=fff)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+<img src="assets/pixel-badges/tools_1.png" height="24" alt="Git, GitHub, VS Code, Android Studio, Copilot"/>
+<br/><br/>
+<img src="assets/pixel-badges/tools_2.png" height="24" alt="Slack, Discord, Vercel, Netlify, Render, npm, Windows"/>
 
 </div>
 
@@ -156,7 +133,7 @@ Estudiante de Ingeniería de Sistemas en Cali, Colombia 🇨🇴 — **3 años d
 <p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="45" alt="Mewtwo"/></p>
 <div align="center">
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-DA7756?style=for-the-badge&logoColor=white)
+<img src="assets/pixel-badges/ai_tools.png" height="18" alt="Claude Code"/>
 
 <sub><i>Hoy la IA te ayuda con casi cualquier lenguaje — lo que importa es cómo la usas 🔭</i></sub>
 
