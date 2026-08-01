@@ -44,18 +44,6 @@ Estudiante de Ingeniería de Sistemas en Cali, Colombia 🇨🇴 — **3 años d
 
 <div align="center">
 
-```
-FRONTEND                 ██████████████████░░  90%
-BACKEND                  ████████████████░░░░  80%
-BASES DE DATOS           ███████████████░░░░░  75%
-HERRAMIENTAS / DEVOPS    █████████████████░░░  85%
-INTELIGENCIA ARTIFICIAL  █████░░░░░░░░░░░░░░░░  25%  (subiendo de nivel...)
-```
-
-</div>
-
-<div align="center">
-
 🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪
 
 </div>
@@ -99,13 +87,13 @@ INTELIGENCIA ARTIFICIAL  █████░░░░░░░░░░░░░�
 
 ## 🛠️ EQUIPO DE COMBATE — Mis Skills
 
-<div align="center"><sub>📦 Los badges de esta sección son pixel art generado a mano — súbelos a tu repo en <code>assets/pixel-badges/</code> (ver instrucciones al final).</sub></div>
+<div align="center"><sub>📦 Los badges de esta sección son pixel art generado a mano — súbelos a tu repo en <code>assets/pixel-badges/</code> (ver instrucciones al final). Para cambiar su tamaño no hace falta regenerarlos: solo edita el <code>height="24"</code> de cada <code>&lt;img&gt;</code> en este archivo.</sub></div>
 
 ### 🎲 Lenguajes de Programación
 <p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif" width="65" alt="Ditto"/><br/><sub><i>Ditto — se transforma en cualquier lenguaje 🔄</i></sub></p>
 <div align="center">
 
-<img src="assets/pixel-badges/languages.png" alt="JavaScript, Java, Python"/>
+<img src="assets/pixel-badges/languages.png" height="24" alt="JavaScript, Java, Python"/>
 
 </div>
 
@@ -113,7 +101,7 @@ INTELIGENCIA ARTIFICIAL  █████░░░░░░░░░░░░░�
 <p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="70" alt="Charizard"/><br/><sub><i>Charizard — interfaces con mucho fuego visual 🎨</i></sub></p>
 <div align="center">
 
-<img src="assets/pixel-badges/frontend.png" alt="Vue, Nuxt, React, Next.js, HTML, CSS, Tailwind"/>
+<img src="assets/pixel-badges/frontend.png" height="24" alt="Vue, Nuxt, React, Next.js, HTML, CSS, Tailwind"/>
 
 </div>
 
@@ -121,7 +109,7 @@ INTELIGENCIA ARTIFICIAL  █████░░░░░░░░░░░░░�
 <p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="80" alt="Snorlax"/><br/><sub><i>Snorlax — la base robusta que nunca se cae 🛡️</i></sub></p>
 <div align="center">
 
-<img src="assets/pixel-badges/backend.png" alt="Node.js, Express.js, Flask, Django, FastAPI"/>
+<img src="assets/pixel-badges/backend.png" height="24" alt="Node.js, Express.js, Flask, Django, FastAPI"/>
 
 </div>
 
@@ -129,7 +117,7 @@ INTELIGENCIA ARTIFICIAL  █████░░░░░░░░░░░░░�
 <p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" width="65" alt="Porygon"/><br/><sub><i>Porygon — hecho enteramente de código y datos 🧬</i></sub></p>
 <div align="center">
 
-<img src="assets/pixel-badges/databases.png" alt="MongoDB, MySQL, SQLite, SQL Server, Firebase"/>
+<img src="assets/pixel-badges/databases.png" height="24" alt="MongoDB, MySQL, SQLite, SQL Server, Firebase"/>
 
 </div>
 
@@ -137,9 +125,9 @@ INTELIGENCIA ARTIFICIAL  █████░░░░░░░░░░░░░�
 <p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif" width="65" alt="Magnemite"/><br/><sub><i>Magnemite — atrae cada herramienta que necesito 🧰</i></sub></p>
 <div align="center">
 
-<img src="assets/pixel-badges/tools_1.png" alt="Git, GitHub, VS Code, Android Studio, Copilot, Slack"/>
+<img src="assets/pixel-badges/tools_1.png" height="24" alt="Git, GitHub, VS Code, Android Studio, Copilot, Slack"/>
 <br/><br/>
-<img src="assets/pixel-badges/tools_2.png" alt="Discord, Vercel, Netlify, Render, npm, Windows"/>
+<img src="assets/pixel-badges/tools_2.png" height="24" alt="Discord, Vercel, Netlify, Render, npm, Windows"/>
 
 </div>
 
@@ -147,7 +135,7 @@ INTELIGENCIA ARTIFICIAL  █████░░░░░░░░░░░░░�
 <p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="45" alt="Mewtwo"/></p>
 <div align="center">
 
-<img src="assets/pixel-badges/ai_tools.png" alt="Claude Code"/>
+<img src="assets/pixel-badges/ai_tools.png" height="18" alt="Claude Code"/>
 
 <sub><i>Hoy la IA te ayuda con casi cualquier lenguaje — lo que importa es cómo la usas 🔭</i></sub>
 
