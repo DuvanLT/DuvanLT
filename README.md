@@ -92,7 +92,7 @@ Full-Stack Engineer based in Cali, Colombia 🇨🇴 — **3+ years turning idea
 
 </div>
 
-### ![AI coding agent](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=3000&repeat=false&color=3B4CCA&background=00000000&center=true&vCenter=true&width=360&height=32&lines=INTELIGENCIA+ARTIFICIAL)
+### ![AI coding agent](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=3000&repeat=false&color=3B4CCA&background=00000000&center=true&vCenter=true&width=360&height=32&lines=ARTIFICIAL+INTELLIGENCE)
 <p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="45" alt="Mewtwo"/></p>
 <div align="center">
 
@@ -105,18 +105,15 @@ Full-Stack Engineer based in Cali, Colombia 🇨🇴 — **3+ years turning idea
 ## ![STATS](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=4300&repeat=false&color=FFDE00&background=00000000&center=true&vCenter=true&width=580&height=40&lines=MY+STATS)
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DuvanLT&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DuvanLT&show_icons=true&theme=radical&hide_border=true" width="49%"/>
 <img src="https://github-readme-streak-stats.demolab.com/?user=DuvanLT&theme=radical&hide_border=true" width="49%"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuvanLT&layout=compact&theme=radical&hide_border=true" width="45%"/>
-
 </div>
 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/27.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="55"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/27.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="55"/>
 
 </div>
 
@@ -124,7 +121,7 @@ Full-Stack Engineer based in Cali, Colombia 🇨🇴 — **3+ years turning idea
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B4CCA,50:FFDE00,100:EE1515&height=8&section=footer" width="100%"/>
 
-![Visitas](https://komarev.com/ghpvc/?username=DuvanLT&color=EE1515&style=for-the-badge&label=VISITAS+A+LA+POKÉDEX)
+![Visitas](https://komarev.com/ghpvc/?username=DuvanLT&color=EE1515&style=for-the-badge&label=BATTLE+NUMBER)
 
 **Thank you for challenging me to a battle!** 
 
