@@ -50,7 +50,7 @@ Full-Stack Engineer based in Cali, Colombia 🇨🇴 — **3+ years turning idea
 ## ![I HAVE WORK WITH](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=2600&repeat=false&color=3B4CCA&background=00000000&center=true&vCenter=true&width=380&height=40&lines=I+HAVE+WORK+WITH) 
 
 
-### 🎲 ![PROGRAMMING LANGUAGES](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=3300&repeat=false&color=FFDE00&background=00000000&center=true&vCenter=true&width=400&height=32&lines=PROGRAMMING+LANGUAGES)
+### ![PROGRAMMING LANGUAGES](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=3300&repeat=false&color=FFDE00&background=00000000&center=true&vCenter=true&width=400&height=32&lines=PROGRAMMING+LANGUAGES)
 <p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif" width="65" alt="Ditto"/><br/><sub><i>Ditto — Can work with any of them or even more...</i></sub></p>
 <div align="center">
 
