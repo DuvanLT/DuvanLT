@@ -20,32 +20,7 @@ Full-Stack Engineer based in Cali, Colombia 🇨🇴 — **3+ years turning idea
 
 </div>
 
-## ![FIND ME ON POKÉ-RED](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=4200&repeat=false&color=EE1515&background=00000000&center=true&vCenter=true&width=560&height=40&lines=FIND+ME+ON+POK%C3%89-RED)
 
-<div align="center">
-
-<table>
-<td align="center" width="150">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif" width="70" alt="Squirtle"/><br/>
-<a href="https://www.linkedin.com/in/duvan-mancilla/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</td>
-<td align="center" width="150">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="70" alt="Gengar"/><br/>
-<a href="https://github.com/DuvanLT">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</td>
-<td align="center" width="150">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif" width="70" alt="Vulpix"/><br/>
-<a href="https://leetcode.com/u/DuvanLT/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-</td>
-</tr>
-</table>
-</div>
 
 ## ![I HAVE WORK WITH](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=2600&repeat=false&color=3B4CCA&background=00000000&center=true&vCenter=true&width=380&height=40&lines=I+HAVE+WORK+WITH) 
 
@@ -98,6 +73,33 @@ Full-Stack Engineer based in Cali, Colombia 🇨🇴 — **3+ years turning idea
 
 <sub><i>AI can write code. I turn it into a product.</i></sub>
 
+</div>
+
+## ![FIND ME ON POKÉ-RED](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=4200&repeat=false&color=EE1515&background=00000000&center=true&vCenter=true&width=560&height=40&lines=FIND+ME+ON+POK%C3%89-RED)
+
+<div align="center">
+
+<table>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif" width="70" alt="Squirtle"/><br/>
+<a href="https://www.linkedin.com/in/duvan-mancilla/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="70" alt="Gengar"/><br/>
+<a href="https://github.com/DuvanLT">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif" width="70" alt="Vulpix"/><br/>
+<a href="https://leetcode.com/u/DuvanLT/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</td>
+</tr>
+</table>
 </div>
 
 
