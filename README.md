@@ -1,57 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EE1515,50:FFDE00,100:3B4CCA&height=160&section=header&text=DUVAN%20MANCILLA&fontSize=46&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" width="100%" alt="Duvan Mancilla"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CEF79F,25:83BA36,50:70E0BB,75:378E8E,100:2A513F&height=160&section=header&text=DUVAN%20MANCILLA&fontSize=46&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" width="100%" alt="Duvan Mancilla"/>
+
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="90" alt="Bulbasaur"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFDE00&background=00000000&center=true&vCenter=true&width=650&lines=SYSTEM+ENGINEER+%7C+FULL-STACK;ARTIFICIAL+INTELLIGENCE+TRAINER;CALI%2C+COLOMBIA+%F0%9F%87%A8%F0%9F%87%B4)](https://duvan-mancilla.vercel.app/)
-
-🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=70e0bb&background=00000000&center=true&vCenter=true&width=650&lines=SOFTWARE+ENGINEER;AI-INTEGRATED+FULL-STACK+DEVELOPER;CALI%2C+COLOMBIA)](https://duvan-mancilla.vercel.app/)
 
 </div>
 
-Estudiante de Ingeniería de Sistemas en Cali, Colombia 🇨🇴 — **3 años de experiencia** construyendo software y subiendo de nivel constantemente. Piénsalo como un recorrido Pokémon: cada proyecto es un nuevo gimnasio, cada bug es un combate y cada línea de código suma experiencia. 🎮
+Full-Stack Engineer based in Cali, Colombia 🇨🇴 — **3+ years turning ideas into shipped digital products**. understanding the whole system well enough to take an idea from concept to a real product
 
-<div align="center">
+<div align="start">
 
-[![Portafolio](https://img.shields.io/badge/🌐_MI_POKÉDEX_WEB-EE1515?style=for-the-badge&logoColor=white)](https://duvan-mancilla.vercel.app/)
-
-</div>
-
-<div align="center">
-
-🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩
+[![Portafolio](https://img.shields.io/badge/🌐_MY_POKÉ_WEB-EE1515?style=for-the-badge&logoColor=white)](https://duvan-mancilla.vercel.app/)
 
 </div>
 
-## 📇 ![FICHA DE ENTRENADOR](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=2800&repeat=false&color=FFDE00&background=00000000&center=true&vCenter=true&width=400&height=40&lines=FICHA+DE+ENTRENADOR)
-
-<div align="center">
-
-| | |
-|:---|:---|
-| 🧑‍💻 **Nombre** | Duvan Mancilla |
-| 🔢 **N.º Pokédex** | #003 *(3 años de experiencia)* |
-| 📍 **Región** | Cali, Colombia 🇨🇴 |
-| 🎯 **Tipo** | Full-Stack `/` Inteligencia Artificial |
-| ✨ **Habilidad** | Aprendizaje continuo — mejora con cada batalla (proyecto) |
-| 🔭 **Objetivo actual** | Evolucionando hacia soluciones de IA |
-| 🐞 **Debilidad** | Bugs que solo aparecen en producción |
 
 </div>
 
-<div align="center">
-
-🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪
-
-</div>
-
-## 🎒 ![ENCUÉNTRAME EN LA POKÉ-RED](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=4200&repeat=false&color=EE1515&background=00000000&center=true&vCenter=true&width=560&height=40&lines=ENCU%C3%89NTRAME+EN+LA+POK%C3%89-RED)
+## ![FIND ME ON POKÉ-RED](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=4200&repeat=false&color=EE1515&background=00000000&center=true&vCenter=true&width=560&height=40&lines=FIND+ME+ON+POK%C3%89-RED)
 
 <div align="center">
 
 <table>
-<tr>
 <td align="center" width="150">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif" width="70" alt="Squirtle"/><br/>
 <a href="https://www.linkedin.com/in/duvan-mancilla/">
@@ -72,31 +45,21 @@ Estudiante de Ingeniería de Sistemas en Cali, Colombia 🇨🇴 — **3 años d
 </td>
 </tr>
 </table>
-
-![Seguidores en GitHub](https://img.shields.io/github/followers/DuvanLT?label=SEGUIDORES&style=for-the-badge&color=3B4CCA&labelColor=FFDE00)
-
 </div>
 
-<div align="center">
+## ![I HAVE WORK WITH](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=2600&repeat=false&color=3B4CCA&background=00000000&center=true&vCenter=true&width=380&height=40&lines=I+HAVE+WORK+WITH) 
 
-🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧
 
-</div>
-
-## 🛠️ ![EQUIPO DE COMBATE](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=2600&repeat=false&color=3B4CCA&background=00000000&center=true&vCenter=true&width=380&height=40&lines=EQUIPO+DE+COMBATE) — Mis Skills
-
-<div align="center"><sub>📦 Los badges de esta sección son pixel art generado a mano — súbelos a tu repo en <code>assets/pixel-badges/</code> junto al README. Para cambiar su tamaño no hace falta regenerarlos: solo edita el <code>height="24"</code> de cada <code>&lt;img&gt;</code> en este archivo.</sub></div>
-
-### 🎲 ![LENGUAJES DE PROGRAMACIÓN](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=3300&repeat=false&color=FFDE00&background=00000000&center=true&vCenter=true&width=400&height=32&lines=LENGUAJES+DE+PROGRAMACI%C3%93N)
-<p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif" width="65" alt="Ditto"/><br/><sub><i>Ditto — se transforma en cualquier lenguaje 🔄</i></sub></p>
+### 🎲 ![PROGRAMMING LANGUAGES](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=3300&repeat=false&color=FFDE00&background=00000000&center=true&vCenter=true&width=400&height=32&lines=PROGRAMMING+LANGUAGES)
+<p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif" width="65" alt="Ditto"/><br/><sub><i>Ditto — Can work with any of them or even more...</i></sub></p>
 <div align="center">
 
 <img src="assets/pixel-badges/languages.png" height="24" alt="JavaScript, Java, Python"/>
 
 </div>
 
-### 🔥 ![FRONTEND DEVELOPMENT](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=2600&repeat=false&color=EE1515&background=00000000&center=true&vCenter=true&width=320&height=32&lines=FRONTEND+DEVELOPMENT)
-<p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="70" alt="Charizard"/><br/><sub><i>Charizard — interfaces con mucho fuego visual 🎨</i></sub></p>
+###  ![FRONTEND DEVELOPMENT](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=2600&repeat=false&color=EE1515&background=00000000&center=true&vCenter=true&width=320&height=32&lines=FRONTEND+DEVELOPMENT)
+<p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="70" alt="Charizard"/><br/><sub><i>Charizard — Real User Experience Through Well-Designed Interfaces</i></sub></p>
 <div align="center">
 
 <img src="assets/pixel-badges/frontend.png" height="24" alt="Vue, Nuxt, React, Next.js, HTML, CSS, Tailwind"/>
@@ -104,23 +67,23 @@ Estudiante de Ingeniería de Sistemas en Cali, Colombia 🇨🇴 — **3 años d
 </div>
 
 ### 💤 ![BACKEND DEVELOPMENT](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=2500&repeat=false&color=3B4CCA&background=00000000&center=true&vCenter=true&width=300&height=32&lines=BACKEND+DEVELOPMENT)
-<p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="80" alt="Snorlax"/><br/><sub><i>Snorlax — la base robusta que nunca se cae 🛡️</i></sub></p>
+<p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="80" alt="Snorlax"/><br/><sub><i>Snorlax — Use one of  them depends of the battle (project)</i></sub></p>
 <div align="center">
 
 <img src="assets/pixel-badges/backend.png" height="24" alt="Node.js, Express.js, Flask, Django, FastAPI"/>
 
 </div>
 
-### 💾 ![BASES DE DATOS](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=1800&repeat=false&color=FFDE00&background=00000000&center=true&vCenter=true&width=240&height=32&lines=BASES+DE+DATOS)
-<p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" width="65" alt="Porygon"/><br/><sub><i>Porygon — hecho enteramente de código y datos 🧬</i></sub></p>
+###  ![DATABASE](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=1800&repeat=false&color=FFDE00&background=00000000&center=true&vCenter=true&width=240&height=32&lines=DATA+BASE)
+<p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/27.gif" width="65" alt="Porygon"/><br/><sub><i>Sandshrew — Data is private, so let´s Keep it safe</i></sub></p>
 <div align="center">
 
 <img src="assets/pixel-badges/databases.png" height="24" alt="MongoDB, MySQL, SQLite, SQL Server, Firebase"/>
 
 </div>
 
-### 🧲 ![HERRAMIENTAS](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=1600&repeat=false&color=EE1515&background=00000000&center=true&vCenter=true&width=210&height=32&lines=HERRAMIENTAS)
-<p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif" width="65" alt="Magnemite"/><br/><sub><i>Magnemite — atrae cada herramienta que necesito 🧰</i></sub></p>
+###  ![A LOT OF TOOLS](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=1600&repeat=false&color=EE1515&background=00000000&center=true&vCenter=true&width=210&height=32&lines=TOOLSSSS)
+<p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif" width="65" alt="Magnemite"/><br/><sub><i>Magnemite — Like a gear, it keeps me going</i></sub></p>
 <div align="center">
 
 <img src="assets/pixel-badges/tools_1.png" height="24" alt="Git, GitHub, VS Code, Android Studio, Copilot"/>
@@ -129,23 +92,17 @@ Estudiante de Ingeniería de Sistemas en Cali, Colombia 🇨🇴 — **3 años d
 
 </div>
 
-### 🧠 ![INTELIGENCIA ARTIFICIAL](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=3000&repeat=false&color=3B4CCA&background=00000000&center=true&vCenter=true&width=360&height=32&lines=INTELIGENCIA+ARTIFICIAL)
+### ![AI coding agent](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=3000&repeat=false&color=3B4CCA&background=00000000&center=true&vCenter=true&width=360&height=32&lines=INTELIGENCIA+ARTIFICIAL)
 <p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="45" alt="Mewtwo"/></p>
 <div align="center">
 
 <img src="assets/pixel-badges/ai_tools.png" height="18" alt="Claude Code"/>
 
-<sub><i>Hoy la IA te ayuda con casi cualquier lenguaje — lo que importa es cómo la usas 🔭</i></sub>
+<sub><i>AI can write code. I turn it into a product.</i></sub>
 
 </div>
 
-<div align="center">
-
-🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦
-
-</div>
-
-## 📊 ![ESTADÍSTICAS DEL ENTRENADOR](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=4300&repeat=false&color=FFDE00&background=00000000&center=true&vCenter=true&width=580&height=40&lines=ESTAD%C3%8DSTICAS+DEL+ENTRENADOR)
+## ![STATS](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=4300&repeat=false&color=FFDE00&background=00000000&center=true&vCenter=true&width=580&height=40&lines=MY+STATS)
 
 <div align="center">
 
@@ -156,17 +113,10 @@ Estudiante de Ingeniería de Sistemas en Cali, Colombia 🇨🇴 — **3 años d
 
 </div>
 
-<div align="center">
-
-🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪
-
-</div>
-
-## 🚶 ![EL EQUIPO EN MARCHA](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=3000&repeat=false&color=EE1515&background=00000000&center=true&vCenter=true&width=420&height=40&lines=EL+EQUIPO+EN+MARCHA)
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="55"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/27.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif" width="55"/><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="55"/>
 
 </div>
 
@@ -176,6 +126,6 @@ Estudiante de Ingeniería de Sistemas en Cali, Colombia 🇨🇴 — **3 años d
 
 ![Visitas](https://komarev.com/ghpvc/?username=DuvanLT&color=EE1515&style=for-the-badge&label=VISITAS+A+LA+POKÉDEX)
 
-**¡Gracias por pasar por mi Pokédex digital! Sigamos evolucionando juntos.** ⚡
+**Thank you for challenging me to a battle!** 
 
 </div>
