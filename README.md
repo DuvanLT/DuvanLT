@@ -86,9 +86,7 @@ Full-Stack Engineer based in Cali, Colombia 🇨🇴 — **3+ years turning idea
 <p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif" width="65" alt="Magnemite"/><br/><sub><i>Magnemite — Like a gear, it keeps me going</i></sub></p>
 <div align="center">
 
-<img src="assets/pixel-badges/tools_1.png" height="24" alt="Git, GitHub, VS Code, Android Studio, Copilot"/>
-<br/><br/>
-<img src="assets/pixel-badges/tools_2.png" height="24" alt="Slack, Discord, Vercel, Netlify, Render, npm, Windows"/>
+<img src="assets/pixel-badges/tools_1.png" height="24" alt="Git, GitHub, VS Code, Slack, Vercel"/> <br/><br/> <img src="assets/pixel-badges/tools_2.png" height="24" alt="Netlify, Render, npm, n8n"/> </div>
 
 </div>
 
