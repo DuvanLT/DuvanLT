@@ -102,14 +102,6 @@ Full-Stack Engineer based in Cali, Colombia 🇨🇴 — **3+ years turning idea
 
 </div>
 
-## ![STATS](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=4300&repeat=false&color=FFDE00&background=00000000&center=true&vCenter=true&width=580&height=40&lines=MY+STATS)
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DuvanLT&show_icons=true&theme=radical&hide_border=true" width="49%"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=DuvanLT&theme=radical&hide_border=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuvanLT&layout=compact&theme=radical&hide_border=true" width="45%"/>
-</div>
-
 
 <div align="center">
 
